@@ -1,0 +1,10 @@
+1	Fireball	3	Deals fire damage to enemies
+2	Ice Shield	2	Reduces damage taken by 30%
+3	Thunder Strike	4	Strikes target with lightning
+4	Healing Aura	3	Restores HP to nearby allies
+5	Invisibility	1	Makes player invisible for 5 seconds
+6	Wind Dash	2	Quick dash forward to evade attacks
+7	Bloodlust	5	Increases attack power for 10 seconds
+8	Stone Skin	4	Increases defense by 40%
+9	Poison Cloud	3	Poisons enemies in area
+10	Meteor Storm	5	Causes massive area damage

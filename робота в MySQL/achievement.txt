@@ -1,0 +1,10 @@
+1	First Blood	Defeat your first enemy	Kill 1 enemy
+2	Treasure Hunter	Open 10 chests	Open 10 chests
+3	Master Explorer	Visit all regions	Discover all map areas
+4	Legendary Hero	Reach level 30	Level 30 required
+5	Collector	Obtain 50 items	Own 50 items
+6	Guild Master	Create your own guild	Create a guild
+7	Champion	Win 10 matches	Win 10 mathgames
+8	Quick Learner	Learn 5 skills	Learn 5 skills
+9	Slayer	Defeat 100 enemies	Kill 100 enemies
+10	Godlike	Reach level 50	Level 50 required
