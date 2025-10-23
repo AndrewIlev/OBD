@@ -1,0 +1,10 @@
+1	legend123	LegendaryHero	legend@mail.com	25	12400	1
+2	shdw99	ShadowWolf	shadow99@gmail.com	19	8800	2
+3	arcane77	MysticMage	mage77@gmail.com	30	15500	3
+4	skyboy22	SkyRider	sky22@yahoo.com	14	6000	9
+5	ironjoe	IronBreaker	iron.joe@mail.com	9	3100	5
+6	drako88	FlameDrake	drako88@mail.com	27	13200	10
+7	nina04	NightElf	nina04@gmail.com	11	5200	8
+8	crystalx	CrystalLight	crystalx@gmail.com	22	10100	6
+9	windrush	StormRider	windrush@mail.com	17	7900	4
+10	brutus01	HeavyTank	brutus01@mail.com	13	4700	7
